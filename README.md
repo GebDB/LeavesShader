@@ -1,6 +1,5 @@
-# Leaves Shader for the Aspen 2024-2025 Project
+# Leaves/Foilage Shader for the Aspen 2024-2025 Project
 https://github.com/StudioAspen/Aspen2024-2025
-Used for foilage
 
 ## Features
 - Customizable leaves through primary and secondary color tints.
