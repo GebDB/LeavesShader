@@ -1,4 +1,5 @@
-# Leaves Shader for the Aspen 2024-2025 Project: https://github.com/StudioAspen/Aspen2024-2025
+# Leaves Shader for the Aspen 2024-2025 Project
+https://github.com/StudioAspen/Aspen2024-2025
 Used for foilage
 
 ## Features
